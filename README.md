@@ -20,12 +20,12 @@ _These instructions will allow you to get a copy of the project running on your 
 ### Installation 🔧
 _To begin the installation process, first download the list of tools described in the prerequisites part. Then follow each of the following steps._
 
-* **Step 1:** _Install JDK, create JAVA_HOME environment variable and add the file PATH._
+* **Step 1: Install JDK** _create JAVA_HOME environment variable and add the file PATH._
 ```
 JAVA_HOME: C:\Program Files\Java\jdk1.8.0_151.
 PATH: C:\Program Files\Java\jdk1.8.0_151\bin.
 ```
-* **Step 2:** _Install Eclipse IDE for Java Developers._
+* **Step 2: Install Eclipse IDE for Java Developers**.
 _When the installation is complete, access the Eclipse IDE Environment and open the Focus Services Project_
 ```
 File -> Open projects from File System or Archive -> Import Source -> Directory -> Select focusservices project -> Finish.
@@ -33,8 +33,8 @@ Go to Projects -> Clean, then select the Build Project option.
 
 To finish the process, if your project has errors, please go to.
 Click on Project -> Maven -> Update Projects, this will allow you to build the project successfully.
-
 ```
+
 
 ### Running the tests ⚙️
 _Working on it..._
