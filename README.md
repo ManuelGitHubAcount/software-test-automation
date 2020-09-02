@@ -30,13 +30,20 @@ _When the installation is complete, access the Eclipse IDE Environment and open 
 File -> Open projects from File System or Archive -> Import Source -> Directory -> Select focusservices project -> Finish.
 Go to Projects -> Clean, then select the Build Project option.
 
-To finish the process, if your project has errors, please go to.
+To finish the process, if your project has errors, please go to...
 Click on Project -> Maven -> Update Projects, this will allow you to build the project successfully.
 ```
-
-
 ### Running the tests ⚙️
-_Working on it..._
+_To run the project and validate the test cases, do the following._
+```
+Go to Eclipse IDE and,
+In the project, browse the project folders until you find FocusRunTestMethodsClass.class.
+Path: focusservices -> src/test/java -> focusservices -> FocusRunTestMethodsClass.class.
+
+Then, just Right click on the class 'FocusRunTestMethodsClass.class' -> Run As -> Junit Test.
+
+The application will start to execute each of the test cases. Regardless of the results, you will get a message on the console.
+```
 
 ### Built with 🛠️
 _Working on it..._
