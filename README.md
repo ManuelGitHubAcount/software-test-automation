@@ -37,7 +37,7 @@ Click on Project -> Maven -> Update Projects, this will allow you to build the p
 _It is extremely necessary to install the indicated version or a higher version, otherwise the google chrome driver will not run successfully_.
 
 * **Step 4: Install Junit, Selenium Server and ChromeDriver**.
-_For these Junit, Selenium Server and ChromeDriver tools, it is not necessary to install or configure them, because they are already attached to the project_
+_For these Junit, Selenium Server and ChromeDriver tools, it is not necessary to install or configure them, because they are already attached to the project_.
 
 ### Running the tests ⚙️
 _To run the project and validate the test cases, do the following._
@@ -59,3 +59,7 @@ _Working on it..._
 
 ### License 📄
 _Working on it..._
+....
+
+_Sincerely, Manuel Reyes_.
+_Good luck_.
