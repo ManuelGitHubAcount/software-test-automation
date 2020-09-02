@@ -9,11 +9,11 @@ to the console_
 _These instructions will allow you to get a copy of the project running on your local machine for testing purposes._
 
 ### Pre-requisites 📋
-_Eclipse IDE Version: 2020-06 https://www.eclipse.org/downloads/ _
-_JDK Version: 1.8.0_ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html _
-_Junit Version: 4.13_ https://search.maven.org/artifact/junit/junit/4.13/jar _
-_Selenium Server Version 3.141.59_ https://www.selenium.dev/downloads/ _
-_ChromeDriver 85.0.4183.87_ https://chromedriver.chromium.org/downloads _
-_Google Chrome Version 85.0.4183.83_ https://www.google.com.mx/chrome/ _
+* Eclipse IDE Version: 2020-06 (https://www.eclipse.org/downloads/).
+* JDK Version: 1.8.0 (https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
+* Junit Version: 4.13 (https://search.maven.org/artifact/junit/junit/4.13/jar).
+* Selenium Server Version: 3.141.59 (https://www.selenium.dev/downloads/).
+* ChromeDriver Version: 85.0.4183.87 (https://chromedriver.chromium.org/downloads).
+* Google Chrome Version 85.0.4183.83 (https://www.google.com.mx/chrome/).
 
 ### Installation 🔧
