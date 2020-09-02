@@ -20,8 +20,10 @@ _These instructions will allow you to get a copy of the project running on your 
 _To begin the installation process, first download the list of tools described in the prerequisites part. Then follow each of the following steps._
 
 * **Step 1:** _Install JDK, create JAVA_HOME environment variable and add the file PATH._
+```
 _JAVA_HOME: C:\Program Files\Java\jdk1.8.0_151._
 _PATH: C:\Program Files\Java\jdk1.8.0_151\bin._
+```
 
 
 ### Running the tests ⚙️
