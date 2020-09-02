@@ -9,7 +9,7 @@ to the console_
 _These instructions will allow you to get a copy of the project running on your local machine for testing purposes._
 
 ### Pre-requisites 📋
-* _Focus Services Project  Version: 1.0 (https://github.com/ManuelGitHubAcount/software-test-automation/)_.
+* _Focus Services Project Version: 1.0 (https://github.com/ManuelGitHubAcount/software-test-automation/)_.
 * _Eclipse IDE Version: 2020-06 (https://www.eclipse.org/downloads/)_.
 * _JDK Version: 1.8.0 (https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)_.
 * _Junit Version: 4.13 (https://search.maven.org/artifact/junit/junit/4.13/jar)_.
@@ -19,8 +19,7 @@ _These instructions will allow you to get a copy of the project running on your 
 
 ### Installation 🔧
 _To begin the installation process, first download the list of tools described in the prerequisites part. Then follow each of the following steps._
-
-* **Step 1: Install JDK** _create JAVA_HOME environment variable and add the file PATH._
+* **Step 1: Install JDK**. _And create JAVA_HOME environment variable and add the file PATH._
 ```
 JAVA_HOME: C:\Program Files\Java\jdk1.8.0_151.
 PATH: C:\Program Files\Java\jdk1.8.0_151\bin.
